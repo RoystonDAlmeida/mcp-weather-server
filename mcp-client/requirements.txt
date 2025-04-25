@@ -1,0 +1,4 @@
+mcp
+langchain-groq
+langchain-core
+python-dotenv
