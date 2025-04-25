@@ -1,6 +1,6 @@
 # MCP Weather Application (Client-Server)
 
-This project demonstrates a client-server application using the MCP (Meta Call Protocol) framework to retrieve weather information.
+This project demonstrates a client-server application using the MCP (Model Context Protocol) framework to retrieve weather information.
 
 *   `weather/`: Contains the MCP server code, which fetches data from the National Weather Service (NWS) API.
 *   `mcp-client/`: Contains the MCP client code, which interacts with the server and uses LangChain with Groq for natural language queries.
